@@ -1,4 +1,4 @@
-package acer.haniel.hanieldacs2021;
+package br.univille.hanieldacs2021;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
